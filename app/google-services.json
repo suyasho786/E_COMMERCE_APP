@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "110004720670",
+    "project_id": "augustproject-db8e4",
+    "storage_bucket": "augustproject-db8e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:110004720670:android:5b357ba81d59372eaf4a0f",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "110004720670-aqa09js5ilb6c676s9ehbv4j7iba8v11.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzZTz_VLHfZ-yAMOm-v5VbDdftUfzer7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "110004720670-aqa09js5ilb6c676s9ehbv4j7iba8v11.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
